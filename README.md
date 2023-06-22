@@ -11,3 +11,7 @@ Run `create_dataset.m` to preprocess the image. Preprocessing crops the faces ou
 Run `train_model.m` to train models with `SVM`, `KNN`, `Discriminant` algorithms. The trained model is saved on the file `models.mat`.
 
 Use `input_image.m` script to predict the faces on an image. `input_video.m` annotates all the recognized face on a video and writes a new annotated video. `live_detection.m` detects recognized face on live webcam stream.
+
+# Results
+
+<img src="img/touhid-saheeb.jpg" />
