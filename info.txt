@@ -1,0 +1,11 @@
+WORKFLOW:
+create dataset > train model > input image/input video/live detection
+
+DEPENDENCIES:
+matlab toolboxes required to run the code:
+
+computer vision toolbox
+Statistics and Machine Learning Toolbox
+image acquistion toolbox
+usb webcam tool
+wavelet toolbox
