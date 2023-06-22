@@ -1,6 +1,6 @@
 # Real Time Face Recognition with ML
 
-This program employs several face recognition algorithm and uses the model with best training performances. In almost all test runs, SVM was the most accurate method.
+This program employs several face recognition algorithm along with 2D wavelet transformation and uses the model with best training performances. In almost all test runs, SVM was the most accurate method.
 
 # How to use
 
