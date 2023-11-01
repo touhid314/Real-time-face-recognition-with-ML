@@ -2,6 +2,7 @@
 
 This program employs several face recognition algorithm along with 2D wavelet transformation and uses the model with best training performances. In almost all test runs, SVM was the most accurate method.
 
+Functionality includes, annotating an image with recognized face, annotating entire video with recognized face, real time annotation of webcam stream.
 # How to use
 
 Put the images of various persons on the `dataset` folder. The folder name should be the name of the person.
